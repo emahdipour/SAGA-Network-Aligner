@@ -13,7 +13,7 @@ Please feel free and contact to me (elham.mahdipour@gmail.com) if there are any 
 
 You can change the data file name such as input and output subfolders and run program for other pairs of species. You can see the experimental results in output subfolders of data folder. 
 
-we have limit in upload files. 
+we have limit in upload files. So we load MM-CE and MM-SC pairs of species. 
 This data is available in Biogrid dataset. You can download data from https://downloads.thebiogrid.org/BioGRID/Release-Archive/BIOGRID-3.5.170/ and prepare them such as files in input folder. 
 
 Best Regards,
